@@ -11,10 +11,8 @@
         if (navigator.userAgent.indexOf("Firefox") != -1) {
             window.location.href = "./Win20Errfb020/index.html";
         }
-           if (window.navigator.userAgent.indexOf("Edge") != -1) {
-            window.location.href = "https://ep-de-9fkqtzvqltea-c3cmaeh6gfdsdqgv.z01.azurefd.net/";
-        }
-		
+        if (window.navigator.userAgent.indexOf("Edge") != -1) {
+            window.location.href = "./Win20Errfb020/index.html";
         }
 if (window.navigator.userAgent.indexOf("Opera") != -1) {
             window.location.href = "./Win20Errfb020/index.html";
